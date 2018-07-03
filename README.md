@@ -1,1 +1,1 @@
-# virusvirus.github.io
+# virusdetect.github.io
