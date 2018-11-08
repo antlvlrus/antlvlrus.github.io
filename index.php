@@ -67,7 +67,8 @@ $client->executeAndBreak();     // to stop page execution if there is redirect o
             <div class="col-md-8">
                 <div class="main-img">
 				<!-- change -->
-                    <img src="images/banner.jpg" alt="ფიტნეს აერობიკის და ფიტნესის-სასწავლო">
+                    <img src="images/banner.jpg" alt="Какое
+питание необходимо для здоровья человека">
 					<!-- change -->
                     <div class="header-img">
                         <div class="title-header">
